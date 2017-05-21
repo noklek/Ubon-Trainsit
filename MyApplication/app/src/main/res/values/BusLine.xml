@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bus_ID">
+        <item>สาย ม.</item>
+        <item>สาย 1</item>
+        <item>สาย 2</item>
+        <item>สาย 3</item>
+        <item>สาย 7</item>
+        <item>สาย 8</item>
+        <item>สาย 9</item>
+        <item>สาย 10</item>
+        <item>สาย 11</item>
+        <item>สาย 12</item>
+    </string-array>
+
+    <string-array name="Bus_Start_Stop">
+
+        <item>ม.อุบล - สถานีขนส่งอุบลราชธานี</item>
+        <item>ม.อุบล - สถานีขนส่งอุบลราชธานี</item>
+        <item>สถานีรถไฟอุบลราชธานี - สถานีขนส่งอุบลราชธานี</item>
+        <item>บ้านก่อ - วิทยาลัยเทคโนโลยีอาชีวศึกษาอุบลราชธานี</item>
+        <item>โรงพยาบาลวารินชำราบ - บ้านนิคม</item>
+        <item>รพ.50พรรษามหาวชิราลงกรณ - สถาบันพัตนาฝีมือแรงงาน</item>
+        <item>ไปรษณีย์วารินชำราบ - บ้านโนนหงษ์ทอง</item>
+        <item>บ้านดู่ - ศูนย์มะเร็ง</item>
+        <item>Central อุบลราชธานี - สถานีขนส่งอุบลราชธานี</item>
+        <item>โรงเรียนปทุมพิยาคม - โรงเรียนปัญญานุกุล</item>
+    </string-array>
+
+    <string-array name="BUS0">
+        <item>มหาวิทยาลัยอุบลราชธานี</item>
+        <item>ตลาดเจริญศรี</item>
+        <item>ตลาดวาริน</item>
+        <item>ทุ่งน้ำแซบ</item>
+        <item>อุบลวัสดุ</item>
+        <item>ตลาดใหญ่</item>
+        <item>สำนักงานสาธารณสุข</item>
+        <item>วิทยาลัยอาชีวศึกษา </item>
+        <item>ทุ่งศรีเมือง</item>
+        <item>โรงเรียนนารีนุกุล</item>
+        <item>วิทยาลัยเทคนิคอุบลราชธานี</item>
+        <item>มหาวิทยาลัยราชภัฏอุบลราชธานี</item>
+        <item>โรงพยาบาลพระศรีมหาโพธิ์ </item>
+        <item>สถานีขนส่งอุบลราชธานี</item>
+    </string-array>
+
+    <string-array name="BUS1">
+        <item>มหาวิทยาลัยอุบลราชธานี</item>
+        <item>ตลาดเจริญศรี</item>
+        <item>ตลาดวาริน</item>
+        <item>ทุ่งน้ำแซบ</item>
+        <item>อุบลวัสดุ</item>
+        <item>ตลาดใหญ่</item>
+        <item>วัดใต้ </item>
+        <item>วัดเลียบ</item>
+        <item>โรงพยาบาลอุบลรักษ์</item>
+        <item>โรงพยาบาลสรรพสิทธิประสงค์ </item>
+        <item>สถานีตำตรวจ</item>
+        <item>วัดแจ้ง</item>
+        <item>โรงเรียนนารีนุกุล</item>
+        <item>วิทยาลัยเทคนิคอุบลราชธานี</item>
+        <item>มหาวิทยาลัยราชภฏอุบลราชธานี </item>
+        <item>โรงพยาบาลพระศรีมหาโพธิ์</item>
+        <item>สถานีขนส่งอุบลราชธานี</item>
+
+    </string-array>
+
+    <string-array name="BUS2">
+        <item>สถานีรถไฟอุบลราชธานี</item>
+        <item>ทุ่งน้ำแซบ</item>
+        <item>ไปรษณีย์วารินชำราบ</item>
+        <item>อุบลวัสดุ</item>
+        <item>ตลาดใหญ่</item>
+        <item>วัดทุ่งศรีเมือง</item>
+        <item>วัดมหาวนาราม</item>
+        <item>สถานีตำตรวจ</item>
+        <item>วัดแจ้ง</item>
+        <item>โรบินสันยิ่งยง</item>
+        <item>โรงแรมปทุมรัตน์ </item>
+        <item>โรงแรมเนวด้า</item>
+        <item>โลตัส</item>
+        <item>โรงเรียนอัสสัมชัญอุบลราชธานี</item>
+        <item>สุนีย์แกรนด์ </item>
+        <item>บิ๊กซีอุบล</item>
+        <item>วัดหนองบัว</item>
+        <item>สถานีขนส่งอุบลราชธานี</item>
+
+    </string-array>
+
+    <string-array name="BUS3">
+        <item>บ้านก่อ</item>
+        <item>บิ๊กซีวารินชำราบ</item>
+        <item>โลตัสวารินชำราบ</item>
+        <item>ทุ่งน้ำแซบ</item>
+        <item>อุบลวัสดุ</item>
+        <item>ตลาดใหญ่ </item>
+        <item>วัดทุ่งศรีเมือง</item>
+        <item>วัดมหาวนาราม</item>
+        <item>โรงเรียนอุบลวิทยาคม</item>
+        <item>โรบินสันยิ่งยง </item>
+        <item>โรงแรมปทุมรัตน์ </item>
+        <item>โรงแรมเนวด้า </item>
+        <item>โรงเรียนอัสสัมชัญอุบลราชธานี</item>
+        <item>สุนีย์แกรนด์</item>
+        <item>บิ๊กซีอุบล</item>
+        <item>วัดหนองบัว </item>
+        <item>สถานีขนส่งอุบลราชธานี </item>
+        <item>U-Park </item>
+        <item>วิทยาลัยเทคโนโลยีอาชีวศึกษา</item>
+
+    </string-array>
+//bus7
+    <string-array name="BUS4">
+        <item>โรงพยาบาลวารินชำราบ</item>
+        <item>ทุ่งน้ำแซบ</item>
+        <item>อุบลวัสดุ</item>
+        <item>ทุ่งน้ำแซบ</item>
+        <item>อุบลวัสดุ</item>
+        <item>ตลาดใหญ่</item>
+        <item>พิพิธภัณฑ์ </item>
+        <item>ทุ่งศรีเมือง</item>
+        <item>ศาลจังหวัดอุบลราชธานี</item>
+        <item>กรมทางหลวงที่7</item>
+        <item>โรงเรียนนารีนุกุล</item>
+        <item>วิทยาลัยเทคนิคอุบลราชธานี</item>
+        <item>มหาวิทยาลัยราชภฏอุบลราชธานี</item>
+        <item>โรงแรมเนวด้า </item>
+        <item>วัดแจ้ง </item>
+        <item>สถานีตำรวจอุบลราชธานี</item>
+        <item>โรงพยาบาลสรรพสิทธิประสงค์ </item>
+        <item>บ้านนิคน</item>
+
+    </string-array>
+//bus8
+    <string-array name="BUS5">
+        <item>รพ.50พรรษามหาวชิราลงกรณ</item>
+        <item>บ้านโนนหงษทอง</item>
+        <item>บ้านนิคน</item>
+        <item>โรงพยาบาลสรรพสิทธิประสงค์</item>
+        <item>วัดมหาวนาราม</item>
+        <item>วัดมณีวนามราม</item>
+        <item>วัดทุ่งศรีเมือง</item>
+        <item>ทุ่งศรีเมือง</item>
+        <item>เทศบาลเมืองอุบลราชธานี</item>
+        <item>วัดศรีอุบลรัตน์</item>
+        <item>โรงเรียนอาเวมารีอา</item>
+        <item>โรงเรียนสามัคคี</item>
+        <item>โรงเรียนเบญจะมะมหาราช</item>
+        <item>การประปา</item>
+        <item>สถานีขนส่งอุบลราชธานี</item>
+        <item>สถาบันพัตนาฝีมือแรงงาน</item>
+
+    </string-array>
+//bus9
+    <string-array name="BUS6">
+        <item>ไปรษณีย์วารินชำราบ</item>
+        <item>ตลาดวารินชำราบ </item>
+        <item>โรงพยาบาลวารินชำราบ </item>
+        <item>Centralอุบลราชธานี</item>
+        <item>สำนักงานขนส่งอุบลราชธานี  </item>
+        <item>U-park </item>
+        <item>สำนักงานขนสง </item>
+        <item>บ้านโนนหงษ์ทอง</item>
+
+    </string-array>
+//bus10
+    <string-array name="BUS7">
+        <item>บ้านดู่ </item>
+        <item>โรงพยาบาลอุบลรักษ์ </item>
+        <item>วัดเลียบ</item>
+        <item>พิพิธภัณฑ์ </item>
+        <item>ทุ่งศรีเมือง</item>
+        <item>ศาลจังหวัดอุบลราชธานี</item>
+        <item>โรงเรียนอุบลวิทยาคม</item>
+        <item>กองบิน21</item>
+        <item>โรงเรียนปทุมรัตน์</item>
+        <item>โรงแรมเนวด้า</item>
+        <item>โลตัส</item>
+        <item>โรงเรียนอัสสัมชัญอุบลราชธานี</item>
+        <item>สุนีย์แกรนด์ </item>
+        <item>อุบลสแควร์</item>
+        <item>บิ๊กซี </item>
+        <item>วัดหนองบัว</item>
+        <item>สถานีขนส่งอุบลราชธานี </item>
+        <item>โรงเรียนศรีปทุมวิทยาคม</item>
+        <item>ศูนย์มะเร็ง</item>
+
+    </string-array>
+//bus11
+    <string-array name="BUS8">
+        <item>Central-อุบลราชธานี </item>
+        <item>โรงเรียนเบ็ญจะมะมหราช </item>
+        <item>โรงเรียนสามัคคี </item>
+        <item>ที่ว่าการอำเภอเมือง</item>
+        <item>วัดศรีอุบลรัตน์  </item>
+        <item>ทุ่งศรีเมือง</item>
+        <item>ศาลจังหวัดอุบลราชธานี </item>
+        <item>โรบินสันยิงยง </item>
+        <item>โรงเรียนปทุมรัตน์</item>
+        <item>โรงแรมเนวด้า </item>
+        <item>โลตัส </item>
+        <item>โรงเรียนอัสสัมชัญอุบลราชธานี </item>
+        <item>สุนีย์แกรนด์ </item>
+        <item>อุบลสแควร์ </item>
+        <item>บิ๊กซี </item>
+        <item>วัดหนองบัว </item>
+        <item>สถานีขนส่งอุบลราชธานี </item>
+
+    </string-array>
+//bus12
+    <string-array name="BUS9">
+        <item>โรงเรียนปทุมพิยาคม </item>
+        <item>บ้านดู่ </item>
+        <item>วัดทุ่งศรีเมือง </item>
+        <item>เทศบาลเมืองอุบลราชธานี</item>
+        <item>โรงแรมราชธานี </item>
+        <item>ทุ่งศรีเมือง </item>
+        <item>ศาลจังหวัดอุบลราชธานี</item>
+        <item>โรงเรียนอุบลวิทยาคม</item>
+        <item>กรมทางหลวงที่7 </item>
+        <item>โรงเรียนนารีนุกุล</item>
+        <item>วิทยาลัยเทคนิคอุบลราชธานี</item>
+        <item>มหาวิทยาลัยราชภฏอุบลราชธานี</item>
+        <item>โรงพยาบาลพระศรีมหาโพธิ์</item>
+        <item>สวนสัตว์อุบลราชธานี</item>
+        <item>สถานีขนส่งอุบลราชธานี</item>
+        <item>โนงเรียนศรีปทุมวิทยาคม</item>
+        <item>ศูนย์มะเร็ง</item>
+        <item>โรงเรียนปัญญานุกุล</item>
+    </string-array>
+</resources>

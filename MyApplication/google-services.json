@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "15743430109",
+    "firebase_url": "https://buslinedb.firebaseio.com",
+    "project_id": "buslinedb",
+    "storage_bucket": "buslinedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15743430109:android:48f5a9ae10f40789",
+        "android_client_info": {
+          "package_name": "com.app1.paded.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15743430109-838l1gtonjclvia7pe1g08s3vph5b83q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo9LTHYiu3lRNbl7AeMwDloi9xxMvxZgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
